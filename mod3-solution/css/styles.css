@@ -1,0 +1,36 @@
+.navbar-brand a h1{
+	color: #000;
+	margin-top: -5px;
+	font-size: 28px;
+
+}
+
+.navbar-brand a h1:hover{
+	color: black;
+	text-decoration: underline black;
+}
+
+
+#nav-list li a{
+	text-align: center;
+	background-color: #fafafa;
+	width: 100%;
+}
+
+#nav-list{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.description{
+	background-color: #d4d4d4;
+	margin-bottom: 10px;
+}
+
+.navbar{
+	background-color: #d4d4d4;
+}
+
+.content-title{
+	font-size: 28px;
+}
